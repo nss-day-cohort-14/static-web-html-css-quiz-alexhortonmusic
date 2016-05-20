@@ -28,16 +28,26 @@ article header h1 {
 article section img {
 	width: 200px;
 	height: 200px;
-	margin: 0 20%;
+}
+
+.gtr-img {
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
 }
 
 .copy {
 	text-align: justify;
 }
 
-.pricing, 
-.specs {
+ .specs p,
+ .pricing p {
 	font-weight: 600;
+}
+
+.specs h3,
+.pricing h3 {
+	font-weight: 300;
 }
 
 .availability {
@@ -48,7 +58,7 @@ article section img {
 /*-------NAV-----*/
 
 .title {
-	border-bottom: 2px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
 	margin-bottom: 10px;
 	margin-top: 0;
 	background: black;
@@ -67,41 +77,5 @@ article section img {
 	text-align: center;
 	font-weight: 300;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
