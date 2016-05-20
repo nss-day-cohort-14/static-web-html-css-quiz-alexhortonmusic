@@ -1,0 +1,107 @@
+/* font weights: 300, 400, 600 */
+
+body {
+	box-sizing: border-box;
+	font-family: 'Raleway', Century Gothic, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/*-----All Cards------*/
+
+article {
+	width: 30%;
+	height: auto;
+	border: 1px solid lightblue;
+	display: inline-block;
+	margin: 0 20px 20px;
+}
+
+article header {
+	border: 1px dotted lightgrey;
+}
+
+article header h1 {
+	text-align: center;
+}
+
+article section img {
+	width: 200px;
+	height: 200px;
+	margin: 0 20%;
+}
+
+.copy {
+	text-align: justify;
+}
+
+.pricing, 
+.specs {
+	font-weight: 600;
+}
+
+.availability {
+	background: darkgrey;
+	color: yellow;
+}
+
+/*-------NAV-----*/
+
+.title {
+	border-bottom: 2px solid lightgrey;
+	margin-bottom: 10px;
+	margin-top: 0;
+	background: black;
+	color: lightgrey;
+
+}
+
+.title h1 {
+	margin-top: 0;
+	text-align: center;
+	font-size: 3em;
+	font-weight: 300;
+}
+
+.title h3 {
+	text-align: center;
+	font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
